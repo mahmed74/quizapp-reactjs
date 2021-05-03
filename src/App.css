@@ -391,3 +391,13 @@
   align-items: center;
   color: #fff;
 }
+
+.select {
+  background-color: green;
+  color: #fff;
+}
+
+.wrong{
+  background-color: red;
+  color: #fff;
+}
